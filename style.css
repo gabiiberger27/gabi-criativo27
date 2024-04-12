@@ -3,7 +3,7 @@
         padding: 0;
     }
 .cabecalho{
-    background-color: #424e61;
+    background-color:  #e2bb0d;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -11,7 +11,7 @@
     padding: 24px 0;
 }
 .cabecalho-imagem{
-    width: 10%;
+    width: 10%;    
 
 }
 
@@ -20,3 +20,23 @@ display: inline-block;
 margin: 0 16px;
 
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+        background-image: linear-gradient(#e2bb0d,#e7bf3b);
+        color:white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+
+    .escola-div-conteudo{
+        width: 35%;
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
